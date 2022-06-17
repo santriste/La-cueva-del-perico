@@ -1,9 +1,6 @@
 html {
     font-family: 'Josefin Sans', sans-serif;
 }
-#body {
-  background-color: rgb(255, 172, 241) ;
-}  
 
 @media (min-width: 991.98px) {
   main {
@@ -17,11 +14,6 @@ html {
     top: 80px;
 }
 
-#listado-juegos{
-margin-left: 520px;
-text-align: center;
-margin-top: 220px;
-}
 
 .imagentabla{
   width: 350px ;
