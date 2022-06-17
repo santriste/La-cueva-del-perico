@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Juegos</title>
+    <link rel="stylesheet" href="juegos.css" /> 
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+</head>
+<body id="body" onload="mostrarJuegos(null)">
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+    <header>  
+        <div>
+        <a href="../index.html">
+        <img src="https://cdn.discordapp.com/attachments/281193076092043266/974082118034526259/LACUEVADELPERICO.png" id="logo">
+        </a>
+        </div>
+
+    </header>
+<div id="categorias">
+
+    <nav id="sidebarMenu" class="collapse d-lg-block sidebar collapse bg-white">
+    <div class="position-sticky">
+     <div class="list-group list-group-flush mx-3 mt-4">
+      <a href="#"class="list-group-item list-group-item-action py-2 ripple">
+        <button type="button" class="btn btn-light" id= "all" onclick="allgames()" >Juegos</button>
+        <i class="fas fa-chart-area fa-fw me-3"></i>
+       </a>
+     
+     <a href="#"class="list-group-item list-group-item-action py-2 ripple">
+      <button type="button" class="btn btn-light" id= "PS2" onclick="ps2juegos()" >PS2</button>
+      <i class="fas fa-chart-area fa-fw me-3"></i>
+     </a>
+
+    <a href="#"class="list-group-item list-group-item-action py-2 ripple">
+     <button type="button" class="btn btn-light" id= "PS4" onclick="ps4juegos()" >PS4</button>
+     <i class="fas fa-chart-area fa-fw me-3"></i>
+    </a>
+
+    <a href="#"class="list-group-item list-group-item-action py-2 ripple">
+      <button type="button" class="btn btn-light" id= "XBOX360" onclick="x360juegos()" >XBOX 360</button>
+      <i class="fas fa-chart-area fa-fw me-3"></i>
+     </a>
+
+     <a href="#"class="list-group-item list-group-item-action py-2 ripple">
+      <button type="button" class="btn btn-light" id= "XBOX ONE" onclick="xonejuegos()" >XBOX ONE</button>
+      <i class="fas fa-chart-area fa-fw me-3"></i>
+     </a>
+
+     <a href="#"class="list-group-item list-group-item-action py-2 ripple">
+      <button type="button" class="btn btn-light" id= "WII" onclick="wiijuegos()" >WII</button>
+      <i class="fas fa-chart-area fa-fw me-3"></i>
+
+      <a href="#"class="list-group-item list-group-item-action py-2 ripple">
+        <button type="button" class="btn btn-light" id= "SWITCH" onclick="nswitchjuegos()" >SWITCH</button>
+        <i class="fas fa-chart-area fa-fw me-3"></i>
+       </a>
+   </div>
+ </div>
+</nav>
+
+
+<nav
+    id="main-navbar"
+    class="navbar navbar-expand-lg navbar-light bg-white fixed-top"
+    >
+
+ <div class="container-fluid">
+   <a class="navbar-brand" href="index.html">
+     <img
+          src="https://i.gifer.com/origin/1b/1bb5c556676c18f44bf184a1085c79bc_w200.gif"
+          height="25"
+          alt=""
+          loading="lazy"
+          />
+   </a>
+   <ul class="navbar-nav ms-auto d-flex flex-row">
+     <li class="nav-item dropdown">
+       <a class="nav-link dropdown-toggle hidden-arrow d-flex align-items-center"
+          href="#"
+          id="navbarDropdownMenuLink"
+          role="button"
+          data-mdb-toggle="dropdown"
+          aria-expanded="false">
+         <img src="https://www.freeiconspng.com/uploads/grocery-cart-icon-28.png" class="rounded-circle" height="22" alt="" loading="lazy"/>
+       </a>
+       </ul>
+     </li>
+   </ul>
+ </div>
+</nav>
+</header>
+</div>
+<div id="listado-juegos"></div>
+
+
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>    
+<script src="index.js"></script>
+</body>
+</html>
