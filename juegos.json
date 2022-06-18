@@ -1,0 +1,338 @@
+[{
+        "nombre": "Crash Twinsanity",
+        "precio": "$15",
+        "imagen": "https://m.media-amazon.com/images/I/51GGN9H60BL._AC_.jpg",
+        "mostrar": true,
+        "console": "PS2"
+    },
+    {
+        "nombre": "Bloodborne",
+        "precio": "$55",
+        "imagen": "https://i.3djuegos.com/juegos/11033/project_beast/fotos/ficha/project_beast-2739557.jpg",
+        "mostrar": true,
+        "console": "PS4"
+    },
+    {
+        "nombre": "Grand Theft Auto IV",
+        "precio": "$25",
+        "imagen": "https://www.mobygames.com/images/covers/l/110820-grand-theft-auto-iv-xbox-360-front-cover.jpg",
+        "mostrar": true,
+        "console": "X360"
+    },
+    {
+        "nombre": "JUMP FORCE",
+        "precio": "$40",
+        "imagen": "https://m.media-amazon.com/images/I/81vi75P1XPL._SL1500_.jpg",
+        "mostrar": true,
+        "console": "XONE"
+    },
+    {
+        "nombre": "Pokemon Battle Revolution",
+        "precio": "$35",
+        "imagen": "https://gogamers.com/wp-content/uploads/2020/09/PokemonBattleRevolutionWii19222_f.jpg",
+        "mostrar": true,
+        "console": "WII"
+    },
+    {
+        "nombre": "Zelda Breath of the Wild",
+        "precio": "$25",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToqMDiPNj4W3252gWhOM8Gn0O1u5KG9_1s-lVY4mb9GuWJ15NQ5FA4JkiFiLBNSIowed8&usqp=CAU",
+        "mostrar": true,
+        "console": "SWITCH"
+    },
+    {
+        "nombre": "God of War",
+        "precio": "$15",
+        "imagen": "https://cdn2.spong.com/pack/g/o/godofwar2237772l/_-God-of-War-2-PS2-_.jpg",
+        "mostrar": true,
+        "console": "PS2"
+    },
+    {
+        "nombre": "W2K22",
+        "precio": "$55",
+        "imagen": "https://juegosdigitalesargentina.com/files/images/thumbs/productos_300x400_1643244977-wwe-2k22-ps4-pre-orden.jpg",
+        "mostrar": true,
+        "console": "PS4"
+    },
+    {
+        "nombre": "Ghostbusters360",
+        "precio": "$25",
+        "imagen": "https://www.mobygames.com/images/covers/l/156473-ghostbusters-the-video-game-xbox-360-front-cover.jpg",
+        "mostrar": true,
+        "console": "X360"
+    },
+    {
+        "nombre": "BATTLEFIELD V",
+        "precio": "$40",
+        "imagen": "https://electronicthings.com.ar/uploads/centum/articles/original/13239123_2.jpg",
+        "mostrar": true,
+        "console": "XONE"
+    },
+    {
+        "nombre": "MARIO KART",
+        "precio": "$35",
+        "imagen": "https://i.pinimg.com/originals/eb/2b/51/eb2b51f323aedd58da25e4fb0bf182b5.jpg",
+        "mostrar": true,
+        "console": "WII"
+    },
+    {
+        "nombre": "Super Smash Bros Ultimate",
+        "precio": "$25",
+        "imagen": "https://www.roargamestore.com/images/virtuemart/product/super-smash.jpg",
+        "mostrar": true,
+        "console": "SWITCH"
+    },
+    {
+        "nombre": "Kingdom Hearts",
+        "precio": "$40",
+        "imagen": "https://i.3djuegos.com/juegos/3714/kingdom_hearts/fotos/ficha/kingdom_hearts-1691928.jpg",
+        "mostrar": true,
+        "console": "PS2"
+    },
+    {
+        "nombre": "Borderlands 3",
+        "precio": "$35",
+        "imagen": "https://preview.redd.it/6cmieldusst51.jpg?width=640&crop=smart&auto=webp&s=0e902664bc138b0ada0b6945a2e5cb1256703264",
+        "mostrar": true,
+        "console": "PS4"
+    },
+    {
+        "nombre": "Dark Souls",
+        "precio": "$25",
+        "imagen": "https://www.mobygames.com/images/covers/l/240130-dark-souls-xbox-360-front-cover.jpg",
+        "mostrar": true,
+        "console": "X360"
+    },
+    {
+        "nombre": "Cuphead",
+        "precio": "$15",
+        "imagen": "https://s3.gaming-cdn.com/images/products/3068/orig-fallback-v1/cuphead-xbox-one-xbox-series-x-s-xbox-one-xbox-series-x-s-juego-microsoft-store-europe-cover.jpg?v=1651827985",
+        "mostrar": true,
+        "console": "XONE"
+    },
+    {
+        "nombre": "Sonic and the Black Knight",
+        "precio": "$55",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6c1672d8-4894-41e1-bc7c-c5f0a9df292f/declsfp-78d2c66c-5a03-44c1-9ed0-5ce2e6bd8a5c.png/v1/fill/w_711,h_1000,strp/sonic_and_the_black_knight__movie_edition__by_danielvieirabr2020_declsfp-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMCIsInBhdGgiOiJcL2ZcLzZjMTY3MmQ4LTQ4OTQtNDFlMS1iYzdjLWM1ZjBhOWRmMjkyZlwvZGVjbHNmcC03OGQyYzY2Yy01YTAzLTQ0YzEtOWVkMC01Y2UyZTZiZDhhNWMucG5nIiwid2lkdGgiOiI8PTcxMSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.cIbALIzDv-i1obIclaxTngycs1yPtRM5sY3r3FdTDhE",
+        "mostrar": true,
+        "console": "WII"
+    },
+    {
+        "nombre": "Dragon Ball Z Kakarot",
+        "precio": "$25",
+        "imagen": "https://static-ie.gamestop.ie/images/products/277624/3max.jpg",
+        "mostrar": true,
+        "console": "SWITCH"
+    },
+    {
+        "nombre": "DBZ Budokai Tenkaichi 3",
+        "precio": "$40",
+        "imagen": "https://media.vandal.net/m/7230/2012512125925_1.jpg",
+        "mostrar": true,
+        "console": "PS2"
+    },
+    {
+        "nombre": "Watch dogs 2",
+        "precio": "$35",
+        "imagen": "https://i.pinimg.com/originals/73/81/1b/73811bbb01e6fa714b10f080217073f7.jpg",
+        "mostrar": true,
+        "console": "PS4"
+    },
+    {
+        "nombre": "Dante's Inferno",
+        "precio": "$25",
+        "imagen": "https://m.media-amazon.com/images/I/51VCG6t4MgL._AC_.jpg",
+        "mostrar": true,
+        "console": "X360"
+    },
+    {
+        "nombre": "Far Cry 6",
+        "precio": "$40",
+        "imagen": "https://livecards.eu/pi/far-cry-6-xbox-one-64342.jpg",
+        "mostrar": true,
+        "console": "XONE"
+    },
+    {
+        "nombre": "Super Smash Bros Brawl",
+        "precio": "$35",
+        "imagen": "https://images.nintendolife.com/games/wii/super_smash_bros_brawl/cover_large.jpg",
+        "mostrar": true,
+        "console": "WII"
+    },
+    {
+        "nombre": "Pokemon Legends: Arceus",
+        "precio": "$25",
+        "imagen": "https://img.g2a.com/323x433/1x1x0/pokemon-legends-arceus-nintendo-switch-nintendo-key-europe/d298218da51a4e7f8742470c",
+        "mostrar": true,
+        "console": "SWITCH"
+    },
+    {
+        "nombre": "Final Fantasy X",
+        "precio": "$25",
+        "imagen": "https://i.3djuegos.com/juegos/8044/final_fantasy_x/fotos/ficha/final_fantasy_x-1783192.jpg",
+        "mostrar": true,
+        "console": "PS2"
+    },
+    {
+        "nombre": "Dragon Ball FighterZ",
+        "precio": "$55",
+        "imagen": "https://m.media-amazon.com/images/I/71us5dOt2QL._AC_SX385_.jpg",
+        "mostrar": true,
+        "console": "PS4"
+    },
+    {
+        "nombre": "Assassins Creed II",
+        "precio": "$25",
+        "imagen": "https://www.mobygames.com/images/covers/l/183151-assassin-s-creed-ii-xbox-360-front-cover.jpg",
+        "mostrar": true,
+        "console": "X360"
+    },
+    {
+        "nombre": "CONTROL",
+        "precio": "$40",
+        "imagen": "https://cdn.cdkeys.com/media/catalog/product/c/o/control-xbox-one-cover-cdkeys.jpg",
+        "mostrar": true,
+        "console": "XONE"
+    },
+    {
+        "nombre": "Silent Hill SM",
+        "precio": "$35",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_995851-MLA44621933769_012021-O.jpg",
+        "mostrar": true,
+        "console": "WII"
+    },
+    {
+        "nombre": "Stardew Valley",
+        "precio": "$25",
+        "imagen": "https://ph-test-11.slatic.net/p/777b651856c16f33746228dbb7d75cfd.jpg",
+        "mostrar": true,
+        "console": "SWITCH"
+    },
+    {
+        "nombre": "GTA: San Andreas",
+        "precio": "$40",
+        "imagen": "https://m.media-amazon.com/images/I/51W1JnXILPL._AC_.jpg",
+        "mostrar": true,
+        "console": "PS2"
+    },
+    {
+        "nombre": "Resident Evil 2",
+        "precio": "$35",
+        "imagen": "https://i11b.3djuegos.com/juegos/12333/resident_evil_2__2015_/fotos/ficha/resident_evil_2__2015_-4765181.jpg",
+        "mostrar": true,
+        "console": "PS4"
+    },
+    {
+        "nombre": "NSUNS 2",
+        "precio": "$25",
+        "imagen": "https://m.media-amazon.com/images/I/81XV0MqgjIL.jpg",
+        "mostrar": true,
+        "console": "X360"
+    },
+    {
+        "nombre": "RDR 2",
+        "precio": "$15",
+        "imagen": "https://m.media-amazon.com/images/I/81bbAeAG6vS._SL1500_.jpg",
+        "mostrar": true,
+        "console": "XONE"
+    },
+    {
+        "nombre": "POKEPARK",
+        "precio": "$55",
+        "imagen": "https://m.media-amazon.com/images/I/71x9ESXM6yL._SY500_.jpg",
+        "mostrar": true,
+        "console": "WII"
+    },
+    {
+        "nombre": "ZELDA Link `s Awakening",
+        "precio": "$25",
+        "imagen": "https://repacklab.com/wp-content/uploads/2021/03/The-Legend-of-Zelda-Links-Awakening-Free-Download-Repacklab-1.jpg",
+        "mostrar": true,
+        "console": "SWITCH"
+    },
+    {
+        "nombre": "Bully",
+        "precio": "$40",
+        "imagen": "https://m.media-amazon.com/images/I/51bv9oUdKfL.jpg",
+        "mostrar": true,
+        "console": "PS2"
+    },
+    {
+        "nombre": "Elden Ring",
+        "precio": "$35",
+        "imagen": "https://ps4digitalargentina.com/files/images/thumbs/productos_300x400_1634940456-elden-ring-ps4-pre-orden.jpg",
+        "mostrar": true,
+        "console": "PS4"
+    },
+    {
+        "nombre": "Assassin`s Creed III",
+        "precio": "$25",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_981343-MLM43551259359_092020-O.jpg",
+        "mostrar": true,
+        "console": "X360"
+    },
+    {
+        "nombre": "Ori and the blind forest",
+        "precio": "$15",
+        "imagen": "https://cdn-products.eneba.com/resized-products/C8r-qaJkj_5gDp_yFgjCyK2STRFwC-PuDXNO4KoAPsQ_350x200_2x-0.jpeg",
+        "mostrar": true,
+        "console": "XONE"
+    },
+    {
+        "nombre": "BAKUGAN",
+        "precio": "$55",
+        "imagen": "https://i.pinimg.com/originals/24/5a/ba/245aba2cfbe86e9bb19264dfc982ad63.jpg",
+        "mostrar": true,
+        "console": "WII"
+    },
+    {
+        "nombre": "OWLBOY",
+        "precio": "$25",
+        "imagen": "https://i.pinimg.com/564x/c1/82/f6/c182f6543b1a38d9b00287a491eed42b.jpg",
+        "mostrar": true,
+        "console": "SWITCH"
+    },
+        {
+        "nombre": "Kingdom Hearts II",
+        "precio": "$40",
+        "imagen": "https://media.vandal.net/m/3011/200610102659_1.jpg",
+        "mostrar": true,
+        "console": "PS2"
+    },
+    {
+        "nombre": "Crash Bandicoot N sane trilogy",
+        "precio": "$35",
+        "imagen": "https://storeplayecuador.com/wp-content/uploads/2019/08/181095993.jpeg",
+        "mostrar": true,
+        "console": "PS4"
+    },
+    {
+        "nombre": "PORTAL 2",
+        "precio": "$25",
+        "imagen": "https://cdn.discordapp.com/attachments/452721227094818849/987663214827429888/unknown.png",
+        "mostrar": true,
+        "console": "X360"
+    },
+    {
+        "nombre": "Plants vs Zombies GW2",
+        "precio": "$15",
+        "imagen": "https://m.media-amazon.com/images/I/91XkQy-lJPL._AC_SX385_.jpg",
+        "mostrar": true,
+        "console": "XONE"
+    },
+    {
+        "nombre": "FIFA 11",
+        "precio": "$55",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_805809-MLA47745319634_102021-O.webp",
+        "mostrar": true,
+        "console": "WII"
+    },
+    {
+        "nombre": "ICE AGE Scrat`s nutty adventure",
+        "precio": "$25",
+        "imagen": "https://i.3djuegos.com/juegos/16861/ice_age_una_aventura_de_bellotas/fotos/ficha/ice_age_una_aventura_de_bellotas-4957353.jpg",
+        "mostrar": true,
+        "console": "SWITCH"
+    }
+]
+

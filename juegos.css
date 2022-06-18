@@ -1,0 +1,28 @@
+html {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+@media (min-width: 991.98px) {
+  main {
+    padding-left: 240px;
+  }
+
+}
+
+.imagentabla{
+  width: 350px ;
+  height: 500px;
+  max-width: 350px;
+  max-height: 500px;
+}
+
+.card-img-top {
+  height: 400px;
+}
+.navbar{
+  background-color: #6610f2;
+}
+.navbar-nav{
+  padding-right:15%;
+}
+
